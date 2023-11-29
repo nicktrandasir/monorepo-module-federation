@@ -1,0 +1,1 @@
+export {LazyAbout as AboutPage} from './admin.lazy'
